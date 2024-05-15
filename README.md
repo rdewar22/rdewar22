@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 my name is Robby!
+
+I am currently studying Computer Science at Michigan State University. I am currently working on building a couple websites using Tailwind and React! I like sports, video games, and music.
+
+Thanks for reading!
 
 <!--
 **rdewar22/rdewar22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
