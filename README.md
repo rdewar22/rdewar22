@@ -1,6 +1,6 @@
 ### Hi there 👋 my name is Robby!
 
-I am currently working on building a website using React and node! I like sports, video games, and music.
+I am currently working on building a website using ReactJS and node for the backend! I like sports, video games, and music.
 
 I am also looking for a job in software development.
 
