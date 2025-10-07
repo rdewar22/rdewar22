@@ -1,8 +1,7 @@
 ### hello!
+Currently working as a software engineering intern at Grounded! I like sports, video games, and music.
 
-I am currently working on building a website using ReactJS and node for the backend! I like sports, video games, and music.
 
-I am also looking for a job in software development.
 
 <!--
 **rdewar22/rdewar22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
