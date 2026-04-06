@@ -1,5 +1,5 @@
 ### hello!
-Currently working as a software engineering intern at Grounded! I like sports, video games, and music.
+Currently working as a junio software engineer at Grounded! I like sports, video games, and music.
 
 
 
